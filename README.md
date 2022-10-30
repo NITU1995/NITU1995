@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NITU1995
+- 👋 Hi, I’m @NITU
 - 👀 I’m interested in Javascript, Nodejs, React, Angular
 - 🌱 I’m currently learning React
 - 📫 How to reach me nitusahu448@gmail.com
