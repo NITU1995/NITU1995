@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NITU
-- 👀 I’m interested in Javascript, Nodejs, React, Angular
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Javascript, Angular
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me nitusahu448@gmail.com
 
 <!---
